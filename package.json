@@ -1,5 +1,6 @@
-{
-  "name": "pawfectpaws",
+{   
+  
+  "name": "project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,16 +11,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@cloudinary/react": "^1.14.3",
-    "@cloudinary/url-gen": "^1.21.0",
     "axios": "^1.10.0",
+    "bootstrap": "^5.3.7",
+    "bootstrap-icons": "^1.13.1",
+    "cloudinary": "^2.7.0",
     "firebase": "^11.10.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-responsive-pagination": "^2.11.1",
     "react-router-dom": "^7.6.3",
     "react-spinners": "^0.17.0",
     "react-switch": "^7.1.0",
     "react-toastify": "^11.0.5",
+    "responsive-pagination": "^0.1.6",
     "sweetalert2": "^11.22.2"
   },
   "devDependencies": {
