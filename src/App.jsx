@@ -30,7 +30,7 @@ import ManageAdoptionRequest from "./component/ngo/adoptionRequests/ManageAdopti
 import UpdateBreed from "./component/admin/breeds/UpdateBreed"
 import UpdateNgo from "./component/admin/ngo/UpdateNGO"
 import UpdatePetsListing from "./component/admin/petListing/UpdatePetListing"
-import UpdateUser from "./component/admin/Users/UpdateUsers"
+import UpdateUser from "./component/admin/users/UpdateUsers"
 import UpdatePetsListings from "./component/ngo/pets/UpdatePetListings"
 import UpdateAdoptionRequest from "./component/ngo/adoptionRequests/UpdateAdoptionRequest"
 import Dashboard from "./component/admin/pages/Dashboard"
